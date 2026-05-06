@@ -8,4 +8,4 @@ This will open up after Nuget package installation as well.
 
 ## New WebSSO Entra Client Library package structure
 
-![WebSSO Entra Client Library package structure](https://github.com/MTIT-Copilot/WebSSOEntra/blob/5e83f4e34522ddd5d66593761028cb30aaf89d4e/Iaea.Nucleus.WebSSO.Client.png)
+![WebSSO Entra Client Library package structure](https://raw.githubusercontent.com/MTIT-Copilot/WebSSOEntra/main/Iaea.Nucleus.WebSSO.Client.png)
